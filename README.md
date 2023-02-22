@@ -1,1 +1,1 @@
-# geatooling_sparxplugin_public
+Geatooling for Sparx plugin
